@@ -5,7 +5,7 @@ This repository is submitted by Rachana Vasudevan. It has the instructions on ho
 Dataset
 Human Activity Recognition Using Smartphones
 
-Files
+Files : 
 A) CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
 B) run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
