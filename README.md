@@ -3,7 +3,8 @@ Peer-graded Assignment: Getting and Cleaning Data Course Project
 This repository is submitted by Rachana Vasudevan. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
 Dataset
-Human Activity Recognition Using Smartphones
+Human Activity Recognition Using Smartphones. 
+The variables in the data X are sensor signals measured with waist-mounted smartphone from 30 subjects. The variable in the data Y indicates activity type the subjects performed during recording.
 
 Files in this Repository : 
 
@@ -16,4 +17,4 @@ B) run_analysis.R performs the data preparation and then followed by the 5 steps
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-C) FinalData.txt is the exported final data after going through all the sequences described above.
+C) FinalData.txt is the exported final data after going through all the sequences described above. It is a tidy data set.
